@@ -67,3 +67,4 @@ This real-time collaboration tool showcases essential full-stack concepts: WebSo
 
 # OUTPUT #
 
+![Image](https://github.com/user-attachments/assets/5798f273-dd7b-4ea2-9cec-408772903c7e)
